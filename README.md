@@ -1,3 +1,3 @@
 # HOG
-A resturant Website
+Resturant Website
 
